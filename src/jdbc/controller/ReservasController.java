@@ -3,9 +3,10 @@ package jdbc.controller;
 import java.sql.Connection;
 import java.sql.Date;
 import java.util.List;
-import jdb.factory.ConnectionFactory;
+
 import jdbc.dao.ReservaDAO;
 import jdbc.modelo.Reserva;
+import views.ConnectionFactory;
 
 public class ReservasController {
  private ReservaDAO reservaDAO;

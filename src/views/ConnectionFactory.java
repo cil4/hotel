@@ -1,4 +1,4 @@
-package jdb.factory;
+package views;
 
 import java.sql.Connection;
 import java.sql.SQLException;
