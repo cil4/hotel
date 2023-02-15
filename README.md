@@ -13,3 +13,6 @@
 ![Captura de pantalla (5)](https://user-images.githubusercontent.com/94643215/219114506-26d57427-5116-47f4-a723-1a719419af12.png)
 
 
+Esquema DER
+
+![Captura de pantalla (7)](https://user-images.githubusercontent.com/94643215/219119012-b9c87c17-e4e3-45cb-add2-69ff238fe6b1.png)
