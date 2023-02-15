@@ -3,9 +3,9 @@ import java.sql.Connection;
 import java.sql.Date;
 import java.util.List;
 
+import jdb.factory.ConnectionFactory;
 import jdbc.dao.HuespedesDAO;
 import jdbc.modelo.Huespedes;
-import views.ConnectionFactory;
 
 
 public class HuespedesController {
